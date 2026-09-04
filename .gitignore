@@ -1,0 +1,14 @@
+# OS and editor metadata
+.DS_Store
+.idea/
+.vscode/
+
+# Dependency and build directories
+node_modules/
+dist/
+coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example
